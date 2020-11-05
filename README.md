@@ -8,7 +8,7 @@
 
 #### In this workshop we will learn more about using the NASA APIs for the Web and access data such as: Satellite Imagery, Earth Data Observation, Climate models, the Moon, Rover mission in Mars and many others! 
 
-![Test Image 4](https://github.com/leoaiassistant/NASA_GIBS/blob/master/IMG/model.png)
+![Test Image 4](https://github.com/aibotsacademy/Intro_NASAApis/blob/master/IMG/model.png)
 
 #### Let's start!
 
