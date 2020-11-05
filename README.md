@@ -8,7 +8,7 @@
 
 #### In this workshop we will learn more about using the NASA APIs for the Web and access data such as: Satellite Imagery, Earth Data Observation, Climate models, the Moon, Rover mission in Mars and many others! 
 
-![Test Image 4](https://github.com/aibotsacademy/Intro_NASAApis/blob/master/IMG/model.png)
+![Test Image 4](https://github.com/aibotsacademy/IntroAPIsNASA/blob/master/IMG/model.png)
 
 #### Let's start!
 
@@ -29,7 +29,7 @@ Try the Rover Mission in Mars API:
 https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-1-2&api_key=DEMO_KEY
 ```
 
-![Mars](https://github.com/leoaiassistant/NASA_APIs/blob/master/IMG/MARS.jpg) 
+![Mars](https://github.com/aibotsacademy/IntroAPIsNASA/blob/master/IMG/MARS.jpg) 
 > Step 3: [Welcome](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) to the Global Imagery Browsing Services: [GIBS API](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs), this API is recommended for projects interested on building Machine Learning, Mixed Reality and other models, based on Satellite Images provided from missions such as [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html). located in a circular sun-synchronous polar orbit that takes it from north to south (on the daylight side of the Earth) every 99 minutes.
 
 -Step 4: Download Demo > [SpaceApps2020](https://github.com/leoaiassistant/NASA_APIs_SpaceApps2020/)
